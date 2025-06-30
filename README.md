@@ -27,7 +27,7 @@ A modern, full-stack e-commerce application. A full-featured shopping platform w
    npm install
    ```
 3. **Set up environment variables:**
-   - Copy `.env.example` to `.env` and fill in your secrets (never commit real secrets!)
+   - Copy `.env.example` to `.env` and fill in your secrets
 4. **Run the development server:**
    ```bash
    npm run dev
@@ -35,5 +35,4 @@ A modern, full-stack e-commerce application. A full-featured shopping platform w
 
 ## Important
 
-- **Never commit API keys, secrets, or sensitive data.**
-- For deployment, review all environment variables and security settings.
+- For deployment, review all environment variables and security settings
